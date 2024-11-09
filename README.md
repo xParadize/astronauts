@@ -7,3 +7,4 @@
 + [Информационная безопасность](ib/ib.md#Информационная-безопасность)
 ***
 [Методички](https://drive.google.com/drive/folders/1U4WVkXh-JffJi9KkCasMFLKMocuq4OXt?usp=sharing)
+[Фикс **лагающего** мудла](https://github.com/stariycat/moodlefix)
